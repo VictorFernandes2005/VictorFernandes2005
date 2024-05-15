@@ -1,5 +1,5 @@
 ## Olá, sou Victor Fernandes!
-Tenho 18 anos e estou começando minha jornada como programador!
+Tenho 18 anos, estudante de Engenharia de Software, seguindo minha jornada como programador!
 
 ### Habilidades
 ![habIcones](https://skillicons.dev/icons?i=python,lua,java)
